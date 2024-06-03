@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaykwae2003
+- 👋 Hi, I’m Joseph Kwae
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, Pyton and PHP
 - 💞️ I’m looking to collaborate on a project with anyone
